@@ -1,2 +1,4 @@
 #a comment - this is ignored  
 build/    # ignore all files in the build/ directory
+b/    # ignore all files in the build/ directory
+c/    # ignore all files in the build/ directory
